@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Lightcast Live-Code Interview
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## You Mission...
+
+> Should you choose to accept it.
+
+Your task is to create a web frontend to display Lightcast data for an occupation. See [Interview_Project_v2.pdf](./Interview_Project_v2.pdf) for an example of what the web page should look like; don’t worry about making it pixel-perfect, but do include all the basic elements from the mockup and display the data accurately.
+
+In real life, this project would use an API to retrieve occupation data; for your project, you may use the [sample request/response JSON file](./ProjectSampleReponse.json) or a mock API endpoint that we have set up at https://run.mocky.io/v3/a2cc3707-8691-4188-8413-6183a7bb3d32. Your frontend should be able to handle data for any occupation, as long as it follows the sample JSON format. Feel free to use whatever technologies you like--be creative.
 
 ## Available Scripts
 
@@ -28,6 +36,14 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn lint` and `yarn lint:fix`
+
+Runs [eslint](https://eslint.org/) through the application files. Use `lint:fix` to automatically apply any fixes that eslint is able to.
+
+### `yarn prettier` and `yarn prettier:fix`
+
+Runs [prettier](https://prettier.io/) through the application files. Use `prettier:fix` to automatically apply any fixes that prettier is able to.
 
 ### `yarn eject`
 
