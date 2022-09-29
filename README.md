@@ -2,11 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+> **NOTE:** We do **NOT** expect you to be able to complete this entire project within our time together. We have included more work than can be done so that we will not run out of things to do together, no matter your experience level. The purpose of this project is to get a feeling of you technical experience, how you work, and your comfort with our particular technologies, not to see if you can finish the entire mockup at once.
+
 ## Your Mission
 
 > Should you choose to accept it...
 
-Your task is to create a web frontend to display Lightcast data for an occupation. See [Interview_Project_v2.pdf](./Interview_Project_v2.pdf) for an example of what the web page should look like; don’t worry about making it pixel-perfect, but do include all the basic elements from the mockup and display the data accurately.
+Your task is to create a web frontend to display Lightcast data for an occupation. See [Interview_Project_v2.pdf](./Interview_Project_v2.pdf) for an example of what the web page should look like; don’t worry about making it pixel-perfect--the most important thing is to include as many of the basic elements from the mockup and to display the data accurately. But do try not to stray wildly from the design.
 
 In real life, this project would use an API to retrieve occupation data; for your project, you may use the [sample request/response JSON file](./ProjectSampleReponse.json) or a mock API endpoint that we have set up at https://run.mocky.io/v3/a2cc3707-8691-4188-8413-6183a7bb3d32. Your frontend should be able to handle data for any occupation, as long as it follows the sample JSON format. Feel free to use whatever technologies you like--be creative.
 
