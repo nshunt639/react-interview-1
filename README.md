@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## You Mission...
+## Your Mission
 
-> Should you choose to accept it.
+> Should you choose to accept it...
 
 Your task is to create a web frontend to display Lightcast data for an occupation. See [Interview_Project_v2.pdf](./Interview_Project_v2.pdf) for an example of what the web page should look like; don’t worry about making it pixel-perfect, but do include all the basic elements from the mockup and display the data accurately.
 
